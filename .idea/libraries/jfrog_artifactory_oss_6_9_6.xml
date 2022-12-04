@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jfrog-artifactory-oss-6.9.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jfrog-artifactory-oss-6.9.6.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
